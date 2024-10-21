@@ -1,0 +1,183 @@
+Bạn: con mèo là gì
+Bot: - con mèo là động vật có vú
+- con mèo là con chó
+- con mèo là động vật 
+- con mèo đẻ con 
+- con mèo thở bằng phổi 
+
+Bạn: halal
+Bot: Vì lý do bộ dữ liệu không đủ nên tôi không thể trả lời bạn, rất xin lỗi vì sự bất tiện này.
+Bạn: một cộng 1
+Bot: Vì lý do bộ dữ liệu không đủ nên tôi không thể trả lời bạn, rất xin lỗi vì sự bất tiện này.
+Bạn: con mèo
+Bot: - con mèo là động vật có vú
+- con mèo là con chó
+- con mèo có lông
+- con mèo có hành động thích săn mồi vào ban đêm
+- con mèo là động vật 
+- con mèo đẻ con 
+- con mèo thở bằng phổi 
+
+Bạn: 1 hel
+Bot: Vì lý do bộ dữ liệu không đủ nên tôi không thể trả lời bạn, rất xin lỗi vì sự bất tiện này.
+Bạn: con mèo
+Bot: - con mèo là động vật có vú
+- con mèo là con chó
+- con mèo có lông
+- con mèo có hành động thích săn mồi vào ban đêm
+- con mèo là động vật 
+- con mèo đẻ con 
+- con mèo thở bằng phổi 
+
+Bạn: con chó
+Bot: Vì lý do bộ dữ liệu không đủ nên tôi không thể trả lời bạn, rất xin lỗi vì sự bất tiện này.
+Bạn: động vật
+Bot: Vì lý do bộ dữ liệu không đủ nên tôi không thể trả lời bạn, rất xin lỗi vì sự bất tiện này.
+Bạn: động vật có  vú
+Bot: Vì lý do bộ dữ liệu không đủ nên tôi không thể trả lời bạn, rất xin lỗi vì sự bất tiện này.
+Bạn: động vật có vú
+Bot: - động vật có vú là động vật
+- động vật có vú đẻ con
+- động vật có vú thở bằng phổi
+
+Bạn: động vật có vú
+Bot: - động vật có vú là động vật
+- động vật có vú đẻ con
+- động vật có vú thở bằng phổi
+
+Bạn: con mèo
+Bot: - con mèo là động vật có vú
+- con mèo là con chó
+- con mèo có lông
+- con mèo có hành động thích săn mồi vào ban đêm
+- con mèo là động vật 
+- con mèo đẻ con 
+- con mèo thở bằng phổi 
+
+Bạn: động vật có vú
+Bot: - động vật có vú là động vật
+- động vật có vú đẻ con
+- động vật có vú thở bằng phổi
+
+Bạn: động vật có vú
+Bot: - động vật có vú là động vật
+- động vật có vú đẻ con
+- động vật có vú thở bằng phổi
+
+Bạn: con chó
+Bot: - con chó là động vật
+- con chó  thích  xương
+
+Bạn: con chó
+Bot: - con chó là động vật có vú
+- con chó  thích  xương
+- con chó là động vật 
+- con chó đẻ con 
+- con chó thở bằng phổi 
+
+Bạn: cây bàng
+Bot: - cây có lá
+- cây có rễ
+- cây thực hiện quang hợp
+- cây có màu 
+- cây có hình dạng 
+
+Bạn: lá cây bàng khi héo
+Bot: - lá có màu
+- lá có hình dạng
+- lá khi héo vàng 
+- lá khi bình thường xanh 
+
+Bạn: cây bàng
+Bot: - cây bàng là cây
+- cây bàng có lá 
+- cây bàng có rễ 
+- cây bàng thực hiện quang hợp 
+
+Bạn: con mèo
+Bot: Vì lý do bộ dữ liệu không đủ nên tôi không thể trả lời bạn, rất xin lỗi vì sự bất tiện này.
+Bạn: cây
+Bot: - cây có lá
+- cây có rễ
+- cây thực hiện quang hợp
+- cây có màu 
+- cây có hình dạng 
+
+Bạn: cây bàng
+Bot: - cây bàng là cây
+Bạn: lá cây bàng khi héo
+Bot: - lá khi héo vàng 
+Bạn: cây quang hợp
+Bot: - cây thực hiện quang hợp
+Bạn: lá màu gì
+Bot: - lá có màu
+Bạn: lá khi bình thường
+Bot: - lá khi bình thường xanh 
+Bạn: lá khi héo
+Bot: - lá khi héo vàng 
+Bạn: 
+Bot: Vì lý do bộ dữ liệu không đủ nên tôi không thể trả lời bạn, rất xin lỗi vì sự bất tiện này.
+Bạn: 1
+Bot: Vì lý do bộ dữ liệu không đủ nên tôi không thể trả lời bạn, rất xin lỗi vì sự bất tiện này.
+Bạn: cây bàng
+Bot: - cây bàng là cây
+Bạn: cây bàng có
+Bot: - cây bàng là cây
+- cây bàng có lá 
+- cây bàng có rễ 
+Bạn: cây bàng thực hiện
+Bot: - cây bàng là cây
+- cây bàng thực hiện quang hợp 
+Bạn: cây
+Bot: - cây có lá
+- cây có rễ
+- cây thực hiện quang hợp
+- cây có màu 
+- cây có hình dạng 
+
+Bạn: lá cây khi héo
+Bot: - lá khi héo vàng 
+Bạn: lá cây khi bình thường
+Bot: - lá khi bình thường xanh 
+Bạn: cây có
+Bot: - cây có lá
+- cây có rễ
+- cây có màu 
+Bạn: cây bàng
+Bot: - cây bàng là cây
+Bạn: cây bàng có gì
+Bot: - cây bàng là cây
+- cây bàng có lá 
+- cây bàng có rễ 
+Bạn: lá cây bàng có gì
+Bot: - lá có màu
+- lá có hình dạng
+- lá khi héo vàng 
+- lá khi bình thường xanh 
+
+Bạn: hello
+Bot: Vì lý do bộ dữ liệu không đủ nên tôi không thể trả lời bạn, rất xin lỗi vì sự bất tiện này.
+Bạn: cây bàng
+Bot: - cây bàng là cây
+Bạn: cây bàng thực hiện gì
+Bot: - cây bàng thực hiện quang hợp 
+Bạn: cây bàng có chức năng gì
+Bot: - cây bàng có lá 
+- cây bàng có rễ 
+Bạn: cây bàng có chức năng gì
+Bot: - cây bàng có lá 
+- cây bàng có rễ 
+- cây bàng thực hiện chức năng 
+Bạn: chức năng
+Bot: - chức năng thực hiện quang hợp
+- chức năng thực hiện tổng hợp chất dinh dưỡng
+- chức năng thực hiện tạo oxi
+
+Bạn: cây bàng thực hiện chức năng gì
+Bot: - cây bàng thực hiện chức năng 
+Bạn: cây bàng thực hiện chức năng gì
+Bot: - cây bàng thực hiện chức năng 
+Bạn: cây bàng thực hiện chức năng gì
+Bot: - cây bàng thực hiện chức năng 
+Bạn: cây bàng thực hiện chức năng gì
+Bot: - cây bàng thực hiện chức năng 
